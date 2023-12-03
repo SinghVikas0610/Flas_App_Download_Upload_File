@@ -1,0 +1,21 @@
+Bootstrap vs Tailwind CSS: What are the differences?
+
+Developers describe Bootstrap as "Simple and flexible HTML, CSS, and JS for popular UI components and interactions". Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. On the other hand, Tailwind CSS is detailed as "A utility-first CSS framework for rapid UI development". Tailwind is different from frameworks like Bootstrap, Foundation, or Bulma in that it's not a UI kit. It doesn't have a default theme, and there are no build-in UI components. It comes with a menu of predesigned widgets to build your site with, but doesn't impose design decisions that are difficult to undo.
+
+Bootstrap and Tailwind CSS can be categorized as "Front-End Frameworks" tools.
+
+Some of the features offered by Bootstrap are:
+
+Preprocessors: Bootstrap ships with vanilla CSS, but its source code utilizes the two most popular CSS preprocessors, Less and Sass. Quickly get started with precompiled CSS or build on the source.
+One framework, every device: Bootstrap easily and efficiently scales your websites and applications with a single code base, from phones to tablets to desktops with CSS media queries.
+Full of features: With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.
+On the other hand, Tailwind CSS provides the following key features:
+
+No default theme
+No build-in UI components
+No opinion about how your site should look
+"Responsiveness" is the primary reason why developers consider Bootstrap over the competitors, whereas "Highly customizable" was stated as the key factor in picking Tailwind CSS.
+
+Bootstrap and Tailwind CSS are both open source tools. Bootstrap with 134K GitHub stars and 66K forks on GitHub appears to be more popular than Tailwind CSS with 12.9K GitHub stars and 586 GitHub forks.
+
+Spotify, Twitter, and Lyft are some of the popular companies that use Bootstrap, whereas Tailwind CSS is used by BlaBlaCar, Exyplis, and Bazzite. Bootstrap has a broader approval, being mentioned in 7046 company stacks & 1115 developers stacks; compared to Tailwind CSS, which is listed in 11 company stacks and 19 developer stacks.
